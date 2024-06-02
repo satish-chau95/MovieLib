@@ -3,8 +3,7 @@ Live Site Link = https://satish-movielib.netlify.app/
 
 ### `npm start`
 
-The page will reload when you make changes./
-You may also see any lint errors in the console.
+This commod will run the the project on vs-code .
 
 ### `npm run build`
 
